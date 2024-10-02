@@ -5,7 +5,7 @@ Algorytmy:
 
 Sortowanie babelkowe - funkcja BubbleSort sortuje wektor i porównuje sąsiadujące elementy
 
-QuickSort - funkcja QuickSort dzieli wektor na części i rekurencyjnie je sortuje
+QuickSort - funkcja QuickSort dzieli wektor na dwie części i je sortuje
 
 
 Testy:
