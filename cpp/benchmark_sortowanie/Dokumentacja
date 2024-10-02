@@ -1,0 +1,20 @@
+Program porównuje dwa algorytmy sortowania QuickSort i BubbleSort
+
+
+Algorytmy:
+
+Sortowanie babelkowe - funkcja BubbleSort sortuje wektor i porównuje sąsiadujące elementy
+
+QuickSort - funkcja QuickSort dzieli wektor na części i rekurencyjnie je sortuje
+
+
+Testy:
+
+BubbleSort - mierzy czas sortowania wektora 10 000 losowych liczb
+
+QuickSort - mierzy czas sortowania tego samego wektora
+
+
+Wyniki:
+
+Program wypisuje czas wykonania dla obu algorytmów 
